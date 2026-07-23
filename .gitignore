@@ -1,0 +1,79 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Package caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Machine Learning models (optional)
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pth
+*.pt
+*.onnx
+saved_model/
+checkpoints/
+
+# Large datasets (optional)
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.hdf
+
+# TensorBoard
+logs/
+runs/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large archives and downloaded datasets
+Project3_TeamDM.zip
+plant-seedlings-classification-cs429529.zip
+*.zip
