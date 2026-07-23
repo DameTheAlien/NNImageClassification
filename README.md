@@ -1,4 +1,9 @@
-# Project 3 - Image Classificaion
+# Neural Network Image Classification
+
+📄 **Project Report**
+
+[Neural Network Image Classification Report](./Project3Paper_TeamDM.pdf)
+
 ## Introduction to Machine Learning
 ## CS-529
 ## Team DM
